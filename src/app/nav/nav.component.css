@@ -1,0 +1,20 @@
+a {
+    color: #1e836c;
+	text-decoration: none;
+	font-family: 'Sacramento', cursive;
+    font-size: 85%;
+    transition: color 0.5s;
+}
+a:hover {
+	color: #E4F6F6;
+}
+ol{
+    list-style: none;
+    display: flex;
+    justify-content: space-evenly;
+    background-color: #c5ded7;
+    margin: 0rem auto;
+    padding: 2rem 0rem;
+    border-radius: 0rem 0rem 0.7rem 0.7rem;
+    width: 60%;
+    }

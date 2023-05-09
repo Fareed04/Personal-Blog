@@ -1,0 +1,23 @@
+h1	{
+	margin: 2rem auto 0rem auto;
+	font-family: 'Sacramento', cursive;
+	font-size: 4rem;
+	color: #1b7f69;
+	z-index: -1;
+}
+h2	{
+	font-size: 2rem;
+	font-family: 'Montserrat', sans-serif;
+	color: #1e836c;
+	font-weight: lighter;
+}
+.top{
+	position: relative;	
+}
+.pro {
+	text-decoration: underline;
+}
+svg{
+	position: relative;
+	top: 2.87rem;
+}

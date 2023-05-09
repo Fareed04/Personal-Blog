@@ -1,0 +1,54 @@
+h2	{
+	font-size: 2.5rem;
+	font-family: 'Montserrat', sans-serif;
+	color: #1e836c;
+	font-weight: normal;
+}
+h3	{
+	font-family: 'Montserrat', sans-serif;
+	color: #45b29a;
+}
+ul{
+    list-style: none;
+}
+hr {
+	border-style: none;
+	border-top-style: dotted;
+	border-color: #545454;
+	border-width: 8px;
+	width: 4%;
+}
+.social-icons{
+	background-color: azure;
+	padding: 0px auto;
+}
+.text{
+	display: inline;
+	font-size: 1rem;
+	font-family: 'Montserrat', sans-serif;
+	font-weight: normal;
+}
+.icon {
+	float: left;
+    width: 35px;
+    display: block;
+    position: relative;
+    bottom: 0px;
+    transition: bottom 0.2s;
+}
+table{
+	margin: auto auto;
+	text-align: left;
+}
+tr{
+	display: inline-block;
+}
+.icon-hr {
+	display: inline-block;
+	height: 40px;
+	width: 0px;
+	margin: 10px auto 10px auto;
+	border-style: none none none solid;
+	border-radius: 3px;
+}
+.icon:hover {color:#c5ded7; bottom: 3px;}
